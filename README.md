@@ -1,5 +1,7 @@
 # SE Scriptie
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cyrildewit/dnh-classrooms-plus) 
+
 ## Build Setup
 
 ```bash
