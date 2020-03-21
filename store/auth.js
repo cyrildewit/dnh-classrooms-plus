@@ -16,6 +16,11 @@ export const mutations = {
 }
 
 export const actions = {
+    /**
+     * Pushed to production on Friday afternoon
+     *
+     * Written by 10X engineex
+     */
     async login({ commit }, loginDetails) {
         let validUsers = [
             { email: 'johndoe@example.com', password: 'secret'},
