@@ -1,13 +1,9 @@
 <template>
-    <p>Redirecting...</p>
+    <h1>Dashboard</h1>
 </template>
 
 <script>
 export default {
     middleware: ['authenticated'],
-
-    mounted() {
-        this.$router.push('login')
-    },
 }
 </script>
