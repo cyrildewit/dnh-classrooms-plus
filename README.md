@@ -24,7 +24,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## Credits
 
 * **Cyril de Wit** - _Initial work_ - [cyrildewit](https://github.com/cyrildewit)
-* **Jip Derksen** - _Initial work_ - [cyrildewit](https://github.com/CubeCard)
+* **Jip Derksen** - _Initial work_ - [CubeCard](https://github.com/CubeCard)
 
 See also the list of [contributors](https://github.com/cyrildewit/eloquent-viewable/graphs/contributors) who participated in this project.
 
