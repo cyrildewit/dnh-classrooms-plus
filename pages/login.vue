@@ -28,6 +28,7 @@ export default {
                 if (res) {
                     this.$router.push('dashboard')
                 }
+            }).catch(error => {
             })
         },
     },
