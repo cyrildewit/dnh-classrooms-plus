@@ -19,7 +19,7 @@ export const actions = {
     /**
      * Pushed to production on Friday afternoon
      *
-     * Written by 10X engineex
+     * Written by 10X engineer
      */
     async login({ commit }, loginDetails) {
         let validUsers = [
